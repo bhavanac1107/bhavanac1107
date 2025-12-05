@@ -2,7 +2,7 @@
 <p align="center">Java Developer | Full-Stack Developer | Data Science Enthusiast | DSA Learner</p>
 
 <p align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL" width="150" style="border-radius:50%;">
+  <img src="https://github.com/bhavanac1107.png" width="150" style="border-radius:50%;">
 </p>
 
 ---
