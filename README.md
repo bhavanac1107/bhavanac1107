@@ -63,10 +63,15 @@ I am a software developer specializing in **Java**, **Data Structures & Algorith
 
 ---
 
+
 ## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhavanac1107&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanac1107&theme=tokyonight" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavanac1107&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
