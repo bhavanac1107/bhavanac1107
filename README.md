@@ -5,7 +5,7 @@
 ## About Me
 I am a software developer specializing in **Java**, **Data Structures & Algorithms**, **Full-Stack Development**, and **Data Science**. I am passionate about building efficient solutions and continuously learning new technologies.
 
-**Goals:**  
+**Current Objectives:**  
 - Strengthen DSA & problem-solving skills  
 - Build advanced full-stack applications  
 - Gain practical experience in data science & machine learning  
