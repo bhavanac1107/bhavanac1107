@@ -1,6 +1,5 @@
 <h1 align="center">Bhavana C</h1>
 <p align="center">Java Developer | Full-Stack Developer | Data Science Enthusiast | DSA Learner</p>
----
 
 ## About Me
 I am a software developer specializing in **Java**, **Data Structures & Algorithms**, **Full-Stack Development**, and **Data Science**. I am passionate about building efficient solutions and continuously learning new technologies.
