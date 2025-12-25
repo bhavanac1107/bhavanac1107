@@ -1,8 +1,12 @@
 <h1 align="center">Bhavana C</h1>
-<p align="center">Java Developer | Full-Stack Developer | Data Science Enthusiast | DSA Learner</p>
+<p align="center">Aspiring Software Engineer | Java | DSA | Data Science
+</p>
 
 ## About Me
-I am a software developer specializing in **Java**, **Data Structures & Algorithms**, **Full-Stack Development**, and **Data Science**. I am passionate about building efficient solutions and continuously learning new technologies.
+Hi, I'm Bhavana 👋
+
+I am a student actively practicing Data Structures & Algorithms in Java
+and building data science & machine learning projects.
 
 **Current Objectives:**  
 - Strengthen DSA & problem-solving skills  
